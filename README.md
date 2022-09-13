@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-12267
-Fork on GitHub
-3087
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Atieno Ouma</h1>
 <h3 align="center">A Software developer||Data Scientist</h3>
 
@@ -45,5 +29,3 @@ preview
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atieno-ouma&show_icons=true&locale=en" alt="atieno-ouma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atieno-ouma&" alt="atieno-ouma" /></p>
-
-
