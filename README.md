@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Backend Development using django**
 
-- 🌱 I’m currently learning **Blockchain developement**
+- 🌱 I’m currently learning **Blockchain development**
 
 - 👯 I’m looking to collaborate on **interesting projects**
 
