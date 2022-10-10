@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **Backend Development **
+- 🔭 I’m currently working on **Backend Development**
 
 - 🌱 I’m currently learning **Blockchain development**
 
