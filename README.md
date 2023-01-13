@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on as a **Backend Developer**
+- 🔭 I’m currently working  as a **Backend Developer**
 
 - 🌱 I’m interested in  **Blockchain development**
 
