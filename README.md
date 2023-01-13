@@ -5,11 +5,11 @@
 
 
 
-- 🔭 I’m currently working on **Backend Development**
+- 🔭 I’m currently working on as a **Backend Developer**
 
-- 🌱 I’m currently learning **Blockchain development**
+- 🌱 I’m interested in  **Blockchain development**
 
-- 👯 I’m looking to collaborate on **interesting projects**
+- 👯 Looking forward to collaborate on **interesting projects**
 
 - 📫 How to reach me **atienooumavee@gmail.com**
 
