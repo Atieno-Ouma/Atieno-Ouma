@@ -26,7 +26,7 @@
 
 <p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Atieno-Ouma&show_icons=true&locale=en&layout=compact" alt="Atieno-Ouma" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Atieno-Oumaa&show_icons=true&count_private=true&locale=en" alt="Atieno-Ouma" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Atieno-Oumaa&show_icons=true&count_private=true&locale=en" alt="Atieno-Ouma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Atieno-Ouma&" alt="Atieno-Ouma" /></p>
 
