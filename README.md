@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working  as a **Backend Developer**
+- 🔭 I’m currently working  as a **Software  Developer**
 
-- 🌱 I’m interested in  **Blockchain development**
+- 🌱 I’m interested in  **Blockchain**
 
 - 👯 Looking forward to collaborate on **interesting projects**
 
