@@ -1,14 +1,14 @@
 <h1 align="center">Hi !👋 </h1>
-  <h1 Atieno Ouma here</h1>
+  <h1 align="center"> Atieno Ouma here</h1>
 <h3 align="center">Software Engineer || Data Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atieno-ouma&label=Profile%20views&color=0e75b6&style=flat" alt="atieno-ouma" /> </p>
 
 
 
-- 🔭 Currently working as a **Software  Developer**
+- 🔭 Currently building  @**E-Glucometer**
 
-- 🌱 I’m interested in  **Blockchain**
+- 🌱 Interested in  **Blockchain**
 
 - 👯 Looking forward to collaborate on **interesting projects**
 
