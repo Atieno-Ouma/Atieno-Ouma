@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working  as a **Software  Developer**
+- 🔭 Currently working as a **Software  Developer**
 
 - 🌱 I’m interested in  **Blockchain**
 
