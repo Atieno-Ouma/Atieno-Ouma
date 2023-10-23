@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **atienooumavee@gmail.com**
 
-- ⚡ Fun fact **I love headwraps!!**
+- ⚡ Fun fact : **I love headwraps!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
