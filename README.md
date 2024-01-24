@@ -8,7 +8,7 @@
 
 - 🔭 Currently building  @**E-Glucometer**
 
-- 🌱 Interested in  **Blockchain**
+- 🌱 Passionate about  **Machine Learning**
 
 - 👯 Looking forward to collaborate on **interesting projects**
 
