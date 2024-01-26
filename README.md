@@ -29,7 +29,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Atieno-Ouma&show_icons=true&count_private=true&include_all_commits=true&locale=en" alt="Atieno-Ouma" /></p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Atieno-Ouma" alt="GitHub Streak" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atieno-ouma&" alt="atieno-ouma" /></p>
 
 
 
