@@ -29,7 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Atieno-Ouma&show_icons=true&count_private=true&include_all_commits=true&locale=en" alt="Atieno-Ouma" /></p>
 
-<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=atieno-ouma&](https://github-readme-streak-stats.herokuapp.com/?user=Atieno-Ouma&)" alt="atieno-ouma" /></p>
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Atieno-Ouma&theme=dark&hide_border=false" alt="atieno-ouma" /></p>
